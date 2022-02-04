@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', sans-serif;
+}
+
+body {
+  
+  background-image: url("https://images.unsplash.com/photo-1594302954323-7846bf62b5a6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1");
+
+  /* Full height */
+ 
+
+  /* Center and scale the image nicely */
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+}
+
+
+.reports,
+.products,
+.Usersupport,
+.Finance {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  
+}
+
+.home
+{
+  /* display: flex;
+  justify-content: center; */
+  margin-top: 50px;
+}
+.decbut
+{
+  background-color: white;
+  color: black;
+  width: 150px;
+  height: 40px;
+  font-weight: bold;
+  margin-top: 30px;
+}
+row {
+  border: 3px solid #f1f1f1;
+}
+
+.set
+{
+  margin-top: 100px;
+  width: 400px;
+}
+
+/* Full-width inputs ! */
+/* input[type=text], input[type=password] {
+  align-items: center;
+  width: 400%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+button {
+  background-color: #04AA6D;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+button:hover {
+  opacity: 0.8;
+}
+.iform-group {
+  text-align: center;
+  margin: 24px 0 12px 0;
+} */
